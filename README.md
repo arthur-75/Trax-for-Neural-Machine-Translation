@@ -1,5 +1,6 @@
 # Trax-for-Neural-Machine-Translation
 Trax for Neural Machine Translation
+Using encoder-decoder Attention LSTM for translating from English to German
 
 
 ## Anaconda environment
